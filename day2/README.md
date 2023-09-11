@@ -53,4 +53,6 @@ Using the same instructions in your puzzle input, what is the correct __bathroom
 
 Your puzzle answer was `659AD`.
 
-You can [get the puzzle input here](input.txt)
+---
+
+You can [get the puzzle input here](input.txt).

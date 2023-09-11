@@ -11,7 +11,7 @@ public class day2 {
             {"4","5","6"},
             {"7","8","9"}
     };
-    static int[] previousButtonPart1 = { 1,1 };  // indexes for the previous button, starts on 5
+    static int[] previousButtonPart1 = { 1,1 };  // indeces for the previous button, starts on 5
 
     static String bathroomCodePart2 = "";
     static String[][] keypadPart2 = {

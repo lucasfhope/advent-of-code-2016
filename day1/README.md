@@ -30,4 +30,6 @@ How many blocks away is the __first location you visit twice__?
 
 Your puzzle answer was `153`.
 
+---
+
 You can [get the puzzle input here](input.txt).
